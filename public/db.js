@@ -6,10 +6,9 @@ const indexedDB =
     window.shimIndexedDB;
 
 let db;
-let budgetVersion;
 
 // Create a new db request for a "budget" database.
-const request = indexedDB.open('budget', budgetVersion || 21);
+const request = indexedDB.open('budget', 21);
 
 
 request.onupgradeneeded = function (e) {
