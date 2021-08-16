@@ -9,8 +9,6 @@ This is an app that allows users to create and track their daily expenses and in
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [License](#License)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
 - [Questions](#Questions)
 
 ## Installation
